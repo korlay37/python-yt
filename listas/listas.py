@@ -2,7 +2,7 @@ mi_lista: list[str] = ["manzana", "pera", "cereza"]
 
 # append(elemento)
 # Agrega un elemento al final de la lista.
-mi_lista.append("coco")
+mi_lista.append("mandarina")
 print(mi_lista)
 
 # insert(posicion, elemento)
@@ -41,6 +41,9 @@ print(mi_lista.count("coco"))
 
 # copy()
 # Devuelve una copia superficial de la lista.
+# Si la lista contiene elementos mutables, como sublistas o diccionarios, la copia mantiene referencias a esos objetos.
+# Esto significa que si se modifica un elemento mutable dentro de la copia, el cambio se reflejará en la lista original
+#  porque ambos apuntan al mismo objeto en memoria.
 nueva_lista: list[str] = mi_lista.copy()
 
 # index(elemento, inicio=0, fin=None)
