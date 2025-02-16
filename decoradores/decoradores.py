@@ -46,3 +46,12 @@ def tarea() -> None:
     print("🎯 Tarea completada")
 
 tarea()
+#Python #Programación #POO #ClasesYObjetos #DesarrolloDeSoftware
+
+# Curso de Python Profesional desde Cero: https://www.udemy.com/course/python-profesional-desde-cero-curso-basico/?couponCode=FEBRERO-2025
+
+# 🔗 Web Personal: https://korlay37.vercel.app/
+#  X : https://x.com/eduardo_rios_c
+# ▶️ YouTube: https://www.youtube.com/@eduardo_rios
+# 🖼️ Instagram: https://instagram.com/eduardorioscorlay
+# 🎵 TikTok:  https://www.tiktok.com/@eduardo_rios_corlay
