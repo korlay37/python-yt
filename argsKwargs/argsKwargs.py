@@ -56,9 +56,6 @@ def procesar_datos(*args: int, **kwargs: str) -> None:
     print("Valores con nombre:", kwargs)
 
 procesar_datos(10, 20, 30, nombre="Ana", edad="25")
-# 📌 Explicación:
-# ✔ args recibe (10, 20, 30).
-# ✔ kwargs almacena {'nombre': 'Ana', 'edad': '25'}.
 
 # 🎯 Conclusión (06:00 - 06:30)
 # ✅ "Ahora ya sabes cómo usar *argsy**kwargs en Python de manera efectiva. ¿Tienes dudas? Déjalas en los comentarios. ¡Suscríbete para más contenido sobre Python! 🚀"
